@@ -785,6 +785,7 @@ if(CONFIG_BT)
     zblue/port/lib/os/assert.c
     zblue/port/sections/defines.c
     zblue/port/subsys/fs/fs.c
+    zblue/port/subsys/logging/log.c
   )
 
   if(CONFIG_BT_SAMPLE)
